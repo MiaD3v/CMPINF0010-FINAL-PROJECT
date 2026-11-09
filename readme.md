@@ -6,3 +6,5 @@
 |https://data.wprdc.org/dataset/pittsburgh-311-data/|Illegal Dumping|
 |https://data.wprdc.org/dataset/allegheny-county-plumbing-inspections/resource/a3fb93b8-01a3-4090-8e8e-6310a4160071|Least Amount of Plumbing Inspections|
 |https://data.wprdc.org/dataset/operations-green-spaces|Least Amount of Green Spaces|
+
+The greenspaces CSV is inside of the "green_space" directory, and the 311 data is not included here because it is too big to push to GitHub without Git LFS.
