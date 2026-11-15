@@ -8,3 +8,5 @@
 |https://data.wprdc.org/dataset/operations-green-spaces|Least Amount of Green Spaces|
 
 The greenspaces CSV is inside of the "green_space" directory, and the 311 data is not included here because it is too big to push to GitHub without Git LFS.
+
+FIXME: HAVE SCRIPT TO DOWNLOAD 311 DATA!!!
